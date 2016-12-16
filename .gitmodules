@@ -1,0 +1,21 @@
+[submodule "League-Of-Legends"]
+	path = League-Of-Legends
+	url = https://github.com/dakotasblack/League-Of-Legends
+[submodule "MasterMind"]
+	path = MasterMind
+	url = https://github.com/Hellsing/MasterMind
+[submodule "EloBuddyAddons"]
+	path = EloBuddyAddons
+	url = https://github.com/stefsot/EloBuddyAddons
+[submodule "Marksman-AIO"]
+	path = Marksman-AIO
+	url = https://github.com/Daeral/Marksman-AIO
+[submodule "Elobuddy"]
+	path = Elobuddy
+	url = https://github.com/wladi0/Elobuddy
+[submodule "EloBuddy-Addons"]
+	path = EloBuddy-Addons
+	url = https://github.com/Uzumaki-Boruto/EloBuddy-Addons
+[submodule "EB-T"]
+	path = EB-T
+	url = https://github.com/Taazuma/EB-T
